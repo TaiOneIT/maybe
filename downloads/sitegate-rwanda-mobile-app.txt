@@ -1,0 +1,3 @@
+SiteGate Rwanda App Package
+Version: 1.0
+Purpose: Mobile download placeholder for the SiteGate Rwanda product experience.
